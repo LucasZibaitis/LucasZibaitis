@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Woofer](https://woofer-taupe.vercel.app/)
 
-- 🎮 I previously worked at [Videogain](https://pi-videogames-front-lime.vercel.app/)
+- 🎮 I previously worked at [Videogain](https://videogain.vercel.app/)
 
 - 🌱 I’m currently learning **Vite** and **TypeScript**
 
