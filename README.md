@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lucas</h1>
-<h3 align="center">I am a passionate fullstack developer from Argentina, primarily focused on frontend development. I am constantly seeking innovative ways to improve usability and aesthetics, and my dedication to frontend programming is complemented by strong knowledge in backend development.</h3>
+<h3 align="center">I am a passionate Full Stack Developer from Argentina, primarily focused on frontend development. I am constantly seeking innovative ways to improve usability and aesthetics, and my dedication to frontend programming is complemented by strong knowledge in backend development.</h3>
 
 - 🔭 I’m currently working on [Woofer](https://woofer-taupe.vercel.app/). I served as a project manager, overseeing the organization and coordination of tasks for the entire team. On the technical side, I was involved in Front End development and page design.
 
